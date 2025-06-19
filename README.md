@@ -67,7 +67,7 @@ Currently focused on **Agentic AI**, **LLMs**, and **forensic chatbots** for sol
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naqib1&show_icons=true&theme=tokyonight&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Naqib1&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Naqib1&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naqib1&layout=compact&theme=tokyonight" height="150" />
 </div>
 
