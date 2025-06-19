@@ -100,5 +100,6 @@ Currently focused on **Agentic AI**, **LLMs**, and **forensic chatbots** for sol
 
 <div align="center">
   <h4>🐍 Watch my contribution graph grow:</h4>
-  <img src=".github/workflows/generate-snake.yml"/>
+  <img src="https://raw.githubusercontent.com/MostafaKamal-Dev/MostafaKamal-Dev/output/snake.svg" alt="Snake animation" />
 </div>
+
