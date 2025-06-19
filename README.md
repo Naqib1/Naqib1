@@ -76,7 +76,7 @@ Currently focused on **Agentic AI**, **LLMs**, and **forensic chatbots** for sol
 ### 📁 Repositories, Resume & Links
 
 - [📂 Projects Portfolio](https://github.com/Naqib1?tab=repositories)
-- [📄 Resume PDF](https://github.com/MostafaKamal-Dev/MostafaKamal-Dev/blob/main/Resume.pdf)
+- [📄 Resume PDF](https://github.com/Naqib1/Naqib1/tree/main/Resume/Resume.pdf)
 - [🌐 Portfolio Website](https://mostafakamal.dev)
 - [📊 Kaggle Profile](https://www.kaggle.com/mostafaelnaqib)
 
