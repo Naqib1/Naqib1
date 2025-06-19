@@ -2,41 +2,41 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=mostafakamal-dev" alt="Profile Views" />
 
 ### Mostafa Kamal  
-**AI & Data Science Enthusiast | Signature Verification | Mobile App Developer**  
+**AI & Data Science Enthusiast | Signature Verification | Chatbot & RAG Developer**  
 Based in Egypt 🇪🇬
 
 ---
 
 #### About Me
 
-I am a **dedicated and innovative Data Scientist** and **Mobile App Developer**, passionate about building impactful AI-powered solutions, especially in **signature verification**, **data analytics**, and **intelligent systems**.
+I’m a passionate **AI & Data Science learner and practitioner** focused on building intelligent systems that solve real-world problems.
 
-🔬 My graduation project, **InkSentinel**, tackles the problem of signature forgery using a smart mobile app that combines **EfficientNet** and a **Siamese Network** with **Firebase** for real-time verification.  
-📱 Also developed **Nature Lens**, a plant recognition app using **image recognition & EfficientNet**, linked to a custom database for educational insights.
+🔬 My graduation project, **InkSentinel**, solves signature forgery by combining **Siamese Networks**, **EfficientNet**, and **TorchScript** with an intelligent chatbot built using **LangChain + Ollama**, enabling instant signature analysis and explanations.
 
-🏅 I’ve led and contributed to projects in:
-- **Deep Learning & NLP**
-- **Flask APIs for smart assistants**
-- **Streamlit dashboards & Data visualizations**
-- **Mobile development with Flutter & Firebase**
-- **RAG & LLM integration (LangChain + Ollama + ChatGPT)**
+📊 I also developed an advanced **Telco Customer Churn Analysis System**, combining **data science**, **predictive models**, and a **smart AI chatbot interface** for real-time insights using **RAG pipelines**.
 
-💡 Currently seeking opportunities as an **Entry-Level Data Scientist**, while offering **freelance services** in AI & Data Analysis on **Khamsat** and **Mostaql**.
+💬 I specialize in:
+- **Deep Learning & Signature Verification**
+- **Building RAG Chatbots (LangChain + Ollama)**
+- **Data Analysis, Visualization & Modeling**
+- **Streamlit dashboards**
+- **LLMs, Retrieval Augmented Generation (RAG)**
 
-📚 Proud participant of the **Digital Egypt Pioneers** scholarship & student at the **Faculty of Computers and Information Technology, EELU**.
+💡 Actively offering freelance services on **Khamsat** and **Mostaql**, and a proud participant in the **Digital Egypt Pioneers** scholarship.  
+🎓 Final-year student at **Faculty of Computers and Information Technology, EELU**.
 
 ---
 
 #### Feel free to reach out to discuss ideas, collaborate, or work together:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mostafa-kamal-analyst" target="_blank">
+  <a href="https://www.linkedin.com/in/mostafakamalalnaqib/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/201099999999" target="_blank">
+  <a href="https://wa.me/201019845980" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" alt="WhatsApp" />
   </a>
-  <a href="mailto:mostafakamal.dev@gmail.com" target="_blank">
+  <a href="mailto:mostafaalnaqib2@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" alt="Gmail" />
   </a>
   <a href="https://mostafakamal.dev" target="_blank">
@@ -47,13 +47,12 @@ I am a **dedicated and innovative Data Scientist** and **Mobile App Developer**,
 ---
 
 ### 🌟 Highlighted Projects:
-- 🔒 **InkSentinel** – Signature forgery detection app using AI [Graduation Project]
-- 🌿 **Nature Lens** – Plant identification app using image recognition
-- 📊 **Telco Churn Analysis** – ML model + Streamlit dashboard
-- 🎓 **Student Performance Insights** – Data analysis & visualization project
-- 🤖 **AI Chatbot with RAG + LLMs** – Smart forensic assistant
+- 🔒 **InkSentinel** – AI-powered signature forgery detection using Siamese Networks + EfficientNet + RAG Chatbot (LangChain + Ollama)
+- 📊 **Telco Churn Analysis** – Customer churn modeling + analytics dashboard + RAG-based smart assistant
+- 🎓 **Student Performance Insights** – Data cleaning, EDA & predictive analytics with detailed reporting
+- 🤖 **Forensic AI Chatbot** – Local chatbot using Ollama + LangChain for intelligent Q&A on signature forgery risks
 
-📂 Check full list in my [Projects Repository](https://github.com/MostafaKamal-Dev/Portfolio)  
+📂 Check full list in my [Projects Repository](https://github.com/Naqib1)  
 📄 [My Resume](https://github.com/MostafaKamal-Dev/MostafaKamal-Dev/blob/main/Resume.pdf)
 
 ---
@@ -70,10 +69,10 @@ I am a **dedicated and innovative Data Scientist** and **Mobile App Developer**,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Flask_logo.svg" height="50" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/ChatGPT_logo.svg" height="50" alt="ChatGPT" />
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="Hugging Face" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/250px-ChatGPT-Logo.svg.png" height="50" alt="LangChain" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/250px-ChatGPT-Logo.svg.png" height="50" alt="ChatGPT" />
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/ollama.png" height="50" alt="Ollama" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Mistral_AI_logo_%282025%E2%80%93%29.svg" height="50" alt="Mistral AI" />
 </div>
 
 ---
