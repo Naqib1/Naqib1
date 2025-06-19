@@ -100,6 +100,6 @@ Currently focused on **Agentic AI**, **LLMs**, and **forensic chatbots** for sol
 
 <div align="center">
   <h4>🐍 Watch my contribution graph grow:</h4>
-  <img src="https://raw.githubusercontent.com/آNaqib1/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Naqib1/Naqib1/output/snake.svg" alt="Snake animation" />
 </div>
 
