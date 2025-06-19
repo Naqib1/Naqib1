@@ -52,7 +52,7 @@ I’m a passionate **AI & Data Science learner and practitioner** focused on bui
 - 🎓 **Student Performance Insights** – Data cleaning, EDA & predictive analytics with detailed reporting
 - 🤖 **Forensic AI Chatbot** – Local chatbot using Ollama + LangChain for intelligent Q&A on signature forgery risks
 
-📂 Check full list in my [Projects Repository](https://github.com/Naqib1)  
+📂 Check full list in my [Projects Repository](https://github.com/Naqib1?tab=repositories)  
 📄 [My Resume](https://github.com/MostafaKamal-Dev/MostafaKamal-Dev/blob/main/Resume.pdf)
 
 ---
